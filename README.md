@@ -2,13 +2,14 @@
 - 👀 I’m interested in web development projects in .net core or .net mvc...
 - 📫 You can find me on ...<br/>
  
-<a href="https://www.fiverr.com/samadmehmood"><img align="left" alt="Fiverr" width="45px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg"/></a> 
-<a href="https://www.linkedin.com/in/samadmehmood"><img align="left" alt="LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> 
+<a href="https://www.fiverr.com/samadmehmood"><img align="left" alt="Fiverr" width="50px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg"/></a> 
+<a href="https://www.linkedin.com/in/samadmehmood"><img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> 
 <a href="https://www.freelancer.com/u/akbedds"><img align="left" alt="Freelancer" width="51px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freelancer.svg"/></a> 
+<a href="https://www.instagram.com/samadmehmood/"><img align="left" alt="Instagram" width="51px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a> 
 <br />
 
 <br />
-##Summary
+<h3>Summary</h3>
 <br />
 -Did BS in Computer Sciences from University of Azad Jammu & Kashmir in the session 2011-15. <br/>
 
@@ -16,14 +17,17 @@
 
 -Love Software Development, Web Development & Web Designing.Till now I have got 5+ years working experience in these fields. <br/>
 
-My Love includes: <br/>
 
-Languages, Scripts and Libraries:
+
+<h4>Languages, Scripts and Libraries</h4>
+<code>
 C#, sql, js, jquery, ajax, json, asp.net, html5,
 css3, D3.js, chart.js,
 along with many renowned javascript libraries..
-
- <br/>Tools and Frameworks
+</code>
+ <br/>
+<h4>Tools and Frameworks</h4>
+<code>
 Asp.net web forms, Asp.net mvc,
 Dotnet core,
 Wpf apps,
@@ -35,4 +39,5 @@ Bootstrap,
 Material Design,
 Google apis.
 AWS Lambda. EC2,
-Ebay store and listing designing,
+Ebay store and listing designing
+ </code>
