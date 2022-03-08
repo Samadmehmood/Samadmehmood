@@ -7,7 +7,8 @@
 <a href="https://www.freelancer.com/u/akbedds"><img align="left" alt="Freelancer" width="51px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freelancer.svg"/></a> 
 <a href="https://www.instagram.com/samadmehmood/"><img align="left" alt="Instagram" width="51px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a> 
 <br />
- <img src="https://github.com/samadmehmood/Samadmehmood/blob/master/images/codeStats.svg" alt="My Coding Activity"/>
+<br />
+ <img src="https://github.com/samadmehmood/Samadmehmood/blob/master/images/codeStats.svg" alt=""/>
 <br />
 <h3>Summary</h3>
 <br />
