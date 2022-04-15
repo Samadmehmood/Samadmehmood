@@ -14,5 +14,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.Api_key }}
           SHOW_MONTHLY: true
-          GITHUB_TOKEN: ${{ github.token }}
-          GITHUB_ACTION: ${{ github.action }}
+        
