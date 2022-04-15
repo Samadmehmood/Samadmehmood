@@ -3,9 +3,11 @@ name: Update README with my latest coding stats
 on:
   push:
     branches: [ master ]
-
+schedule:
+    - cron: '30 5 * * *' 
 
 jobs:
+
   update-Readme:
     name: Automatically update my README  
     runs-on: ubuntu-latest
