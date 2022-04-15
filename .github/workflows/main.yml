@@ -13,5 +13,4 @@ jobs:
       - uses: tariksahni/coding-stats-wakatime@v1.0.0
         with:
           WAKATIME_API_KEY: ${{ secrets.Api_key }}
-          SHOW_MONTHLY: true
         
