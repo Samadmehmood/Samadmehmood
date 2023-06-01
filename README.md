@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development projects in .net core or .net mvc...
 - 📫 You can find me on ...<br/>
 
-<img src="https://wakatime.com/badge/user/7503942a-3c94-4704-b90e-9ec88a955fbc.svg" width:"100px">
+
  
 <a href="https://www.upwork.com/freelancers/~01bf6df753651f6514"><img align="left" alt="Upwork" width="50px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg"/></a> 
 <a href="https://www.linkedin.com/in/samadmehmood"><img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> 
@@ -15,7 +15,7 @@
 <h3>Summary</h3>
 <br />
 My Part time coding is
-<a href="https://wakatime.com/@7503942a-3c94-4704-b90e-9ec88a955fbc"><img src="https://wakatime.com/badge/user/7503942a-3c94-4704-b90e-9ec88a955fbc.svg" alt="Total time coded since May 11 2020" /></a>
+<a href="https://wakatime.com/@7503942a-3c94-4704-b90e-9ec88a955fbc"><img src="https://wakatime.com/badge/user/7503942a-3c94-4704-b90e-9ec88a955fbc.svg" width:"100px"><img src="https://wakatime.com/badge/user/7503942a-3c94-4704-b90e-9ec88a955fbc.svg" alt="Total time coded since May 11 2020" /></a>
 -Did BS in Computer Sciences from University of Azad Jammu & Kashmir in the session 2011-15. <br/>
 
 -Started as a freelancer then moved to a job in 2017 and stayed there for 2 years. I then jumped back to freelancing life. <br/>
