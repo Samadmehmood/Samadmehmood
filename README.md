@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Abdus Samad from Kashmir!
 - 👀 I’m interested in web development projects in .net core or .net mvc...
 - 📫 You can find me on ...<br/>
+
+<img src="https://wakatime.com/badge/user/7503942a-3c94-4704-b90e-9ec88a955fbc.svg" width:"100px">
  
 <a href="https://www.upwork.com/freelancers/~01bf6df753651f6514"><img align="left" alt="Upwork" width="50px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg"/></a> 
 <a href="https://www.linkedin.com/in/samadmehmood"><img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> 
