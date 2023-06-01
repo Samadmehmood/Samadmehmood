@@ -12,6 +12,8 @@
 <br />
 <h3>Summary</h3>
 <br />
+My Part time coding is
+[![wakatime](https://wakatime.com/badge/user/7503942a-3c94-4704-b90e-9ec88a955fbc.svg)](https://wakatime.com/@7503942a-3c94-4704-b90e-9ec88a955fbc)
 -Did BS in Computer Sciences from University of Azad Jammu & Kashmir in the session 2011-15. <br/>
 
 -Started as a freelancer then moved to a job in 2017 and stayed there for 2 years. I then jumped back to freelancing life. <br/>
