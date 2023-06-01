@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdus Samad from Kashmir!
-- 👀 I’m interested in web development projects in .net core or .net mvc...
+- 👀 I do web and software development!
 - 📫 You can find me on ...<br/>
-<a href="https://wakatime.com/@7503942a-3c94-4704-b90e-9ec88a955fbc"><img src="https://wakatime.com/badge/user/7503942a-3c94-4704-b90e-9ec88a955fbc.svg" alt="Code stats" /></a>
+<a style="margin-top:10px;margin-bottom:10px;" href="https://wakatime.com/@7503942a-3c94-4704-b90e-9ec88a955fbc"><img src="https://wakatime.com/badge/user/7503942a-3c94-4704-b90e-9ec88a955fbc.svg" alt="Code stats" /></a>
 
 
  
