@@ -1,14 +1,16 @@
 
 - 👋 Abdus Samad from Kashmir!
 - 👀 I craft industry grade applications & software
-- 📫 You can find me on ...<br/>
-<a style="margin-top:10px;margin-bottom:10px;" href="https://wakatime.com/@7503942a-3c94-4704-b90e-9ec88a955fbc"><img src="https://wakatime.com/badge/user/7503942a-3c94-4704-b90e-9ec88a955fbc.svg" alt="Code stats" /></a>
+- 📫 You can find me on ...
+  <br />
+  <br />
+<a style="margin-top:20px;" href="https://wakatime.com/@7503942a-3c94-4704-b90e-9ec88a955fbc"><img src="https://wakatime.com/badge/user/7503942a-3c94-4704-b90e-9ec88a955fbc.svg" alt="Code stats" style="margin-top:20px" /></a>
 <a href="https://www.upwork.com/freelancers/~01bf6df753651f6514"><img align="left" alt="Upwork" width="50px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg"/></a> 
 <a href="https://www.linkedin.com/in/samadmehmood"><img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> 
 <a href="https://www.freelancer.com/u/akbedds"><img align="left" alt="Freelancer" width="51px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freelancer.svg"/></a> 
 <a href="https://www.instagram.com/samadmehmood/"><img align="left" alt="Instagram" width="51px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 <br />
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@samadmehmood/bf066082-515a-4334-8c69-45dfbd09d715.png" style=" overflow-x: scroll;height:200px" /></a>
+<a href="https://wakatime.com" style="overflow-x: scroll;"><img src="https://wakatime.com/share/@samadmehmood/a4a5e8ce-e178-4599-90bf-a057a38e3d9c.png" style=" width:100%;overflow-x: scroll;" /></a>
 <br />
 <div style="display: flex;">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@samadmehmood/084ac08e-d8b5-4a78-8ac7-68ca7b61f2a4.png" style="width:49%;margin-right:10px"/></a>
