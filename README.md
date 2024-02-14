@@ -45,3 +45,4 @@ Google apis.
 AWS Lambda. EC2,
 Ebay store and listing designing
  </code>
+<figure><embed src="https://wakatime.com/share/@samadmehmood/9aef2ab7-1703-4ff7-be38-d4b24639958c.svg"></embed></figure>
