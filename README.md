@@ -8,7 +8,7 @@
 <a href="https://www.freelancer.com/u/akbedds"><img align="left" alt="Freelancer" width="51px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freelancer.svg"/></a> 
 <a href="https://www.instagram.com/samadmehmood/"><img align="left" alt="Instagram" width="51px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 <br />
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@samadmehmood/bf066082-515a-4334-8c69-45dfbd09d715.png" style="width:100%; overflow-x:scroll" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@samadmehmood/bf066082-515a-4334-8c69-45dfbd09d715.png" style=" overflow-x: scroll;height:200px" /></a>
 <br />
 <div style="display: flex;">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@samadmehmood/084ac08e-d8b5-4a78-8ac7-68ca7b61f2a4.png" style="width:49%;margin-right:10px"/></a>
